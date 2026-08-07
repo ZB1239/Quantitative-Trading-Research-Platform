@@ -92,5 +92,5 @@ Backtested performance may differ materially from real-world performance due to 
 
 The strategy's parameters and underlying methodology are proprietary and are not intended to constitute financial advice or a recommendation to buy or sell any security.
 
-Furthermore, this research project was produced my an un-experienced junior in terms of the stock market and wider-financial world so some metrics or statements may unintentionally be incorrect. Thank you,
+This is an independent research project developed as part of my ongoing study of quantitative finance, programming, and financial markets. The methodology and analysis are continuously being refined, and despite efforts to ensure accuracy, some metrics, assumptions, or interpretations may contain errors. The project should therefore be considered experimental research rather than professional investment research. Thank you,
 Zach Barber. 
