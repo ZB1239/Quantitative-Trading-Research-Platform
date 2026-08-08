@@ -45,7 +45,7 @@ Net Profit - £4,200.76 : £1,877.40
 
 Total Return- 42.01% : 18.77%
 
-Maximum Drawdown- -9.12% : -6.70%
+Maximum Drawdown- -17.15% : -6.70%
 
 Annualised Sharpe Ratio- 1.90 : 1.20
 
