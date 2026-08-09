@@ -1,4 +1,4 @@
-﻿Stock,Entry Date,Entry Price($),Exit Date ,Exit Price($),Return,Holding Period (Trading Days),Stop Loss ($),Take Profit ($), Maximum Return,Maximum Return Date,Maximum Return Price ($),Holding Period for Maximum Return (Trading Days),Lowest Return,Lowest Return Date,Lowest Return Price ($),Holding Period for Lowest Return (Trading Days),,,,,,,,,,,,,,,,,,,
+﻿Stock,Entry Date,Entry Price($),Exit Date ,Exit Price($),Return,Holding Period (Days),Stop Loss ($),Take Profit ($), Maximum Return,Maximum Return Date,Maximum Return Price ($),Holding Period for Maximum Return (Trading Days),Lowest Return,Lowest Return Date,Lowest Return Price ($),Holding Period for Lowest Return (Trading Days),,,,,,,,,,,,,,,,,,,
 PPG,09/07/2026,115,27/07/2026,122.22,5.72%,18,105.14,122.22,7.35%,28/07/2026,123.45,19,-1.73%,14/07/2026,113.01,5,,,,,,,,,,,,,,,,,,,
 CASY,29/06/2026,792.22,07/07/2026,828.81,4.62%,8,715.8,828.81,6.52%,08/07/2026,843.85,9,-3.50%,30/06/2026,764.46,1,,,,,,,,,,,,,,,,,,,
 IVZ,25/06/2026,26.43,08/07/2026,28.5,7.85%,13,23.89,28.5,8.59%,09/07/2026,28.7,14,-2.72%,25/06/2026,25.71,0,,,,,,,,,,,,,,,,,,,
