@@ -73,7 +73,7 @@ Largest Loser	-9.82%
 
 Median Trade Return	4.50%
 
-Average Holding Period	11.43 trading days
+Average Holding Period(Days)	11.43 
 
 Profit Factor	2.27
 
