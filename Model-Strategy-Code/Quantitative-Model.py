@@ -80,7 +80,7 @@ def tradeEquity(tradingEquity, dfStockData):
     )
 
 
-def quantitativeTradingPlatfrom():
+def quantitativeTradingModel():
     market = SPYCheck()
 
     if market == False:
@@ -99,6 +99,5 @@ def quantitativeTradingPlatfrom():
             continue
 
         tradeEquity(tradingEquity, dfTradingStockData)
-
-
-quantitativeTradingPlatfrom()
+quantitativeTradingModel()
+quantitativeTradingMo
