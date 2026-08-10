@@ -100,4 +100,3 @@ def quantitativeTradingModel():
 
         tradeEquity(tradingEquity, dfTradingStockData)
 quantitativeTradingModel()
-quantitativeTradingMo
